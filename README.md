@@ -18,13 +18,13 @@ I'm a passionate AI/ML developer and tech enthusiast based in India with a stron
 ## 💡 Skills Matrix
 
 ### Programming Languages
-- **Proficient:** Python, C++, JavaScript
-- **Familiar:** Java, TypeScript, SQL, HTML/CSS
+- **Proficient:** Python, C++
+
 
 ### Core Competencies
 - **Machine Learning & AI:** Deep Learning, Neural Networks, NLP, Computer Vision, TensorFlow, PyTorch
 - **Data Structures & Algorithms:** 250+ problems solved, Competitive Programming, Optimization
-- **Web Development:** Full-stack development, RESTful APIs, Responsive Design
+
 - **Software Engineering:** OOP, Design Patterns, System Design
 - **Tools & Technologies:** Git, Docker, Linux, VS Code, Jupyter
 
@@ -35,7 +35,7 @@ I'm a passionate AI/ML developer and tech enthusiast based in India with a stron
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ### Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
