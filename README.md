@@ -1,23 +1,32 @@
-# Hi there! 👋 I'm Anubhab Roy Chowdhury
+# Hi there! 🙋 I'm Anubhab Roy Chowdhury
 
 ## 🚀 About Me
 
-I'm a passionate software developer and tech enthusiast with a strong focus on artificial intelligence, machine learning, and modern web technologies. I believe in continuous learning and leveraging technology to solve real-world problems. My journey in tech is driven by curiosity, innovation, and a commitment to excellence.
+I'm a passionate AI/ML developer and tech enthusiast based in India with a strong focus on building innovative solutions. I'm driven by ambition to establish a strong career in Mumbai's thriving tech ecosystem and eventually build my own tech startup. My expertise lies in **Data Structures & Algorithms**, **Machine Learning**, and **Full-Stack Development**. I believe in continuous learning and leveraging technology to solve real-world problems.
+
+---
+
+## 💯 Career Vision
+
+- 🏄 **Current Focus:** Master DSA and ML to prepare for FAANG-level roles in Mumbai
+- 🏛️ **Immediate Goal:** Secure a position at a top tech company in Mumbai (TCS, Infosys, Amazon India, Microsoft, etc.)
+- 💼 **Mid-term Goal:** Lead AI/ML projects and gain product development experience
+- 🚀 **Long-term Vision:** Found a tech startup in Mumbai creating impactful solutions
 
 ---
 
 ## 💡 Skills Matrix
 
 ### Programming Languages
-- **Proficient:** Python, JavaScript, C++, Java
-- **Familiar:** TypeScript, SQL, R, HTML/CSS
+- **Proficient:** Python, C++, JavaScript
+- **Familiar:** Java, TypeScript, SQL, HTML/CSS
 
 ### Core Competencies
-- **Machine Learning & AI:** Deep Learning, Neural Networks, NLP, Computer Vision
-- **Data Structures & Algorithms:** Problem-solving, Competitive Programming
+- **Machine Learning & AI:** Deep Learning, Neural Networks, NLP, Computer Vision, TensorFlow, PyTorch
+- **Data Structures & Algorithms:** 250+ problems solved, Competitive Programming, Optimization
 - **Web Development:** Full-stack development, RESTful APIs, Responsive Design
 - **Software Engineering:** OOP, Design Patterns, System Design
-- **Tools & Technologies:** Git, Docker, Linux, Cloud Platforms
+- **Tools & Technologies:** Git, Docker, Linux, VS Code, Jupyter
 
 ---
 
@@ -25,9 +34,8 @@ I'm a passionate software developer and tech enthusiast with a strong focus on a
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -40,81 +48,34 @@ I'm a passionate software developer and tech enthusiast with a strong focus on a
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
+
+## 🃚 Key Achievements
+
+- ✅ Solved 250+ DSA problems across platforms (LeetCode, GeeksforGeeks, etc.)
+- ✅ Built multiple ML projects from scratch (Classification, Regression, Clustering)
+- ✅ Maintained a professional AI/ML portfolio with 250+ GitHub contributions
+- ✅ Strong CGPA (8.78) demonstrating academic excellence
+- ✅ Active on coding platforms with consistent problem-solving practice
 
 ---
 
-## 🎯 Career Goals
+## 📌 What I'm Working On
 
-### 🇰🇷 Korea Focus
-- Exploring opportunities in South Korea's thriving tech ecosystem
-- Interested in collaborating with Korean tech companies and startups
-- Learning about Korean innovation in AI and semiconductor industries
-
-### 🤖 AI/ML Aspirations
-- **Research:** Contributing to cutting-edge AI research in deep learning and neural architecture
-- **Applications:** Building practical AI solutions for healthcare, education, and automation
-- **Ethics:** Advocating for responsible AI development and deployment
-- **Innovation:** Exploring emerging fields like Generative AI, Reinforcement Learning, and Edge AI
-
-### Long-term Vision
-- Become a leading AI/ML engineer working on transformative technologies
-- Contribute to open-source AI projects and foster community learning
-- Bridge the gap between theoretical AI research and practical industry applications
+- 🚠 Building real-world AI/ML projects for my portfolio
+- 🔍 Deepening expertise in Deep Learning and NLP
+- 💾 Preparing for FAANG interview rounds (System Design, DSA, Behavioral)
+- 🎓 Completing BTech in Computer Science Engineering (Graduation: 2028)
 
 ---
 
-## 📂 Featured Projects
+## 🌟 Let's Connect
 
-### 🌐 Portfolio Projects
-- **Personal Portfolio Website:** Showcasing my skills, projects, and professional journey
-- **Full-Stack Applications:** End-to-end web applications with modern tech stacks
-- **Responsive Design Implementations:** Mobile-first, accessible web experiences
-
-### 🧮 Data Structures & Algorithms
-- **Competitive Programming Solutions:** LeetCode, CodeChef, and Codeforces submissions
-- **Algorithm Visualizations:** Interactive tools to understand complex algorithms
-- **DSA Study Repository:** Comprehensive notes and implementations of core DSA concepts
-
-### 🤖 Machine Learning Projects
-- **Predictive Models:** Regression, classification, and clustering implementations
-- **Deep Learning Applications:** Image recognition, NLP models, and neural networks
-- **Research Projects:** Experimental ML models and innovative approaches
-- **Kaggle Competitions:** Participating in data science challenges and competitions
+- 📧 **Email:** [anubhabcalcutta1239@gmail.com](mailto:anubhabcalcutta1239@gmail.com)
+- 💼 **LinkedIn:** [Anubhab Roy Chowdhury](https://www.linkedin.com/in/anubhab-roy-chowdhury-8a2804275)
+- 🚮 **GitHub:** [@Anubhab-Roy-Chowdhury](https://github.com/Anubhab-Roy-Chowdhury)
+- 🎨 **Portfolio:** [anubhab-roychowdhury.github.io](https://anubhab-roychowdhury.github.io)
 
 ---
 
-## 📫 Contact
-
-- **GitHub:** [@Anubhab-Roy-Chowdhury](https://github.com/Anubhab-Roy-Chowdhury)
-- **Email:** Feel free to reach out for collaboration opportunities!
-- **LinkedIn:** Connect with me for professional networking
-- **Twitter:** Follow for tech updates and insights
-
----
-
-## 🏆 Recent Accomplishments
-
-- ✅ Successfully completed multiple ML projects with real-world applications
-- ✅ Solved 500+ DSA problems across various coding platforms
-- ✅ Contributed to open-source projects in the AI/ML domain
-- ✅ Built and deployed full-stack web applications
-- ✅ Continuously learning and expanding tech stack expertise
-- ✅ Actively participating in tech communities and knowledge sharing
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anubhab-Roy-Chowdhury&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhab-Roy-Chowdhury&layout=compact&theme=radical)
-
----
-
-## 💭 Quote
-
-> "The only way to do great work is to love what you do." - Steve Jobs
-
----
-
-**Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaborations.** 🚀
+## 🔗 Let's Build Something Amazing Together! 🇮🇳
